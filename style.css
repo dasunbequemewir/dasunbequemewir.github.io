@@ -1,7 +1,7 @@
-@font-face{font-family:"Cormorant Garamond";font-weight:600;font-style:normal;font-display:swap;src:url(fonts/cormorant-garamond-latin-600-normal.woff2) format("woff2")}
-@font-face{font-family:"Cormorant Garamond";font-weight:400;font-style:italic;font-display:swap;src:url(fonts/cormorant-garamond-latin-400-italic.woff2) format("woff2")}
-@font-face{font-family:Inter;font-weight:400;font-style:normal;font-display:swap;src:url(fonts/inter-latin-400-normal.woff2) format("woff2")}
-@font-face{font-family:Inter;font-weight:600;font-style:normal;font-display:swap;src:url(fonts/inter-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:600;font-style:normal;font-display:swap;src:url(cormorant-garamond-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:400;font-style:italic;font-display:swap;src:url(cormorant-garamond-latin-400-italic.woff2) format("woff2")}
+@font-face{font-family:Inter;font-weight:400;font-style:normal;font-display:swap;src:url(inter-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Inter;font-weight:600;font-style:normal;font-display:swap;src:url(inter-latin-600-normal.woff2) format("woff2")}
 :root{--espresso:#2A211B;--bronze:#9C7A4B;--salbei:#8A8B6C;--sand:#E7DAC6}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
